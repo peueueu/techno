@@ -1,7 +1,7 @@
 {
   "id": "notebook",
   "nome": "Notebook",
-  "preco": "2999",
+  "preco": 2999,
   "descricao": " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex consequuntur dolorum rerum voluptatem nesciunt libero necessitatibus assumenda tempore, explicabo molestiae. Quasi quas cumque tempore vitae possimus, accusantium quibusdam amet numquam sit blanditiis reiciendis facere iste unde dicta veniam qui commodi!",
   "estoque": 12,
   "img": "./api/produtos/notebook/notebook-foto.jpg",
@@ -14,7 +14,7 @@
     {
       "nome": "Nathália",
       "estrelas": 3,
-      "descricao": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
     }
   ]
 }
