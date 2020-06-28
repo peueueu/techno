@@ -1,0 +1,20 @@
+{
+  "id": "smartwatch",
+  "nome": "Smartwatch",
+  "preco": 1199,
+  "descricao": " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex consequuntur dolorum rerum voluptatem nesciunt libero necessitatibus assumenda tempore, explicabo molestiae. Quasi quas cumque tempore vitae possimus, accusantium quibusdam amet numquam sit blanditiis reiciendis facere iste unde dicta veniam qui commodi!",
+  "estoque": 5,
+  "img": "./api/produtos/smartwatch/smartwatch-foto.jpg",
+  "reviews": [
+    {
+      "nome": "Rogério",
+      "estrelas": 5,
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    },
+    {
+      "nome": "Nathália",
+      "estrelas": 4,
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    }
+  ]
+}
